@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "loglens"
+version = "0.1.0"
+description = "Cluster big logs into templates with counts, severities and incident spikes — streaming, stdlib only"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{ name = "juzorei" }]
+keywords = ["logs", "observability", "triage", "cli", "agent-skills"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "Topic :: System :: Logging",
+]
+
+[project.urls]
+Homepage = "https://github.com/juzorei/loglens"
+
+[project.scripts]
+loglens = "loglens.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

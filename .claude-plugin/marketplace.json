@@ -1,0 +1,21 @@
+{
+  "name": "loglens",
+  "owner": {
+    "name": "juzorei"
+  },
+  "metadata": {
+    "description": "Log triage for agents: cluster big logs into templates with counts, severities and incident spikes",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "loglens",
+      "description": "Diagnose what happened in a huge log without reading it: template clustering, severity counts, incident spikes",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/log-triage"
+      ]
+    }
+  ]
+}

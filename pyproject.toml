@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+testpaths = ["tools/loglens/tests", "skills"]
+pythonpath = ["tools/loglens/src"]
+python_files = ["test_*.py"]
