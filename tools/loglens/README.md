@@ -31,7 +31,7 @@ loglens demo [dir]                       # synthetic log with a planted incident
 
 Streaming: the file is read line by line, memory holds only templates. Any text log; timestamps understood in ISO, Apache-bracketed and bare `HH:MM:SS` forms (no timestamps → line-range buckets). Python 3.11+, stdlib only.
 
-Install: `pip install loglens-cli` — or from this repo:
+Install: `pip install logtriage` — or from this repo:
 `pip install "git+https://github.com/juzorei/loglens#subdirectory=tools/loglens"`
 
 The companion agent skill lives in [skills/log-triage](../skills/log-triage): cluster first, read only samples, then bounded reads around the incident. Skills: `npx skills add juzorei/loglens`.

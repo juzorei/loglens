@@ -3,7 +3,7 @@ requires = ["setuptools>=69"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "loglens-cli"
+name = "logtriage"
 version = "0.1.0"
 description = "Cluster big logs into templates with counts, severities and incident spikes — streaming, stdlib only"
 readme = "README.md"
