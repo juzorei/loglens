@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/juzorei/loglens/actions/workflows/ci.yml/badge.svg)](https://github.com/juzorei/loglens/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/github/license/juzorei/loglens)](LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/loglens)](https://pypi.org/project/loglens/)
+[![PyPI](https://img.shields.io/pypi/v/loglens)](https://pypi.org/project/loglens-cli/)
 
 An agent skill and a CLI that diagnose what happened in a huge log without reading it line by line.
 
