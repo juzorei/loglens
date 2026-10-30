@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/juzorei/loglens/actions/workflows/ci.yml/badge.svg)](https://github.com/juzorei/loglens/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/github/license/juzorei/loglens)](LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/loglens)](https://pypi.org/project/logtriage/)
+[![PyPI](https://img.shields.io/pypi/v/logtriage)](https://pypi.org/project/logtriage/)
 
 An agent skill and a CLI that diagnose what happened in a huge log without reading it line by line.
 
