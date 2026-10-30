@@ -10,7 +10,7 @@ A 500 MB log cannot be read — not by a human, not by an agent with a finite co
 Install the CLI:
 
 ```bash
-pip install loglens
+pip install loglens-cli
 ```
 
 ## 1. Cluster first, read only the samples

@@ -28,7 +28,7 @@ levels   INFO 1,999, DEBUG 579, WARNING 273, ERROR 149
 ## Install
 
 ```bash
-pip install loglens
+pip install loglens-cli
 npx skills add juzorei/loglens
 ```
 
