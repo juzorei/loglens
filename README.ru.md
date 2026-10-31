@@ -28,6 +28,16 @@ pip install loglens
 npx skills add juzorei/loglens
 ```
 
+## Ещё из портфеля
+
+Один из серии прицельных наборов «скилл + CLI» одного автора:
+
+- [ci-autopsy](https://github.com/juzorei/ci-autopsy) — семья триажа: упавшие CI вместо логов
+- [flakehunt](https://github.com/juzorei/flakehunt) — оно в логах, потому что это флак?
+- [hookbench](https://github.com/juzorei/hookbench) — интеграционные сбои тоже заканчиваются в логах
+
+Остальные — в [профиле juzorei](https://github.com/juzorei?tab=repositories).
+
 ## Рамки
 
 Работай с логами, которыми владеешь или имеешь право читать. В логах часто данные пользователей — цитируй минимум в отчётах.

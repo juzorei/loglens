@@ -32,6 +32,16 @@ pip install logtriage
 npx skills add juzorei/loglens
 ```
 
+## More from this portfolio
+
+Part of a series of focused skill+CLI tools by the same author:
+
+- [ci-autopsy](https://github.com/juzorei/ci-autopsy) — the triage family: failed CI runs instead of logs
+- [flakehunt](https://github.com/juzorei/flakehunt) — is it in the logs because it's flaky?
+- [hookbench](https://github.com/juzorei/hookbench) — integration failures find their way into logs too
+
+Browse the rest at the [juzorei profile](https://github.com/juzorei?tab=repositories).
+
 ## Scope
 
 Run on logs you own or are authorized to read. Logs often contain user data — quote the minimum necessary in reports.
